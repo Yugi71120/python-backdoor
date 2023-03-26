@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1>Python Backdoor</h1>
-	<p><a href="https://github.com/Yugi71120/python-backdoor/blob/main/python%20backdoor.pdf"Python backdoor</a> is a command-line tool that allows an attacker to remotely access and control a compromised machine. It is written in Python and can be used on both Windows and Linux systems.
+	<p><a href="https://github.com/Yugi71120/python-backdoor/blob/main/python%20backdoor.pdf">Python backdoor</a> is a command-line tool that allows an attacker to remotely access and control a compromised machine. It is written in Python and can be used on both Windows and Linux systems.
 
 The backdoor works by opening a reverse connection to the attacker's machine and waiting for commands. The attacker can then use the backdoor to execute commands on the compromised machine, access files, and perform other malicious activities.
 
