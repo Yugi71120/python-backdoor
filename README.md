@@ -38,7 +38,7 @@ This tool is meant for educational purposes only and should not be used for ille
 		<div>
   <button class="btn" data-clipboard-target="#code">Copy Code</button>
   <pre><code id="code">
-  python backdoor.py
+  reverse-backdoor.py
   </code></pre>
 </div>	
 		<h2>Disclaimer</h2>
