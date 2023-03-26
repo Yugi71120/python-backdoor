@@ -13,7 +13,7 @@ The backdoor works by opening a reverse connection to the attacker's machine and
 
 This tool is meant for educational purposes only and should not be used for illegal or malicious activities. The developer is not responsible for any damage or harm caused by the misuse of this tool.</p>
 	<h2>Features</h2>
-	<p>1.Cross-platform support for both Windows and Linux<br>
+	<p>1.Cross-platform support for both Windows and Linux and also support for all types of os <br>
 2.Simple command-line interface for easy use<br>
 3.Encrypted communication between the backdoor and the attacker's machine<br>
 4.Backdoor can be run as a service to maintain persistence on the compromised machine</p>
