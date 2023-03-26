@@ -34,7 +34,6 @@ This tool is meant for educational purposes only and should not be used for ille
   cd backdoor-listener
   </code></pre>
 </div>
-
 		<p>3.Run the backdoor in a target machine:</p>
 		<div>
   <button class="btn" data-clipboard-target="#code">Copy Code</button>
