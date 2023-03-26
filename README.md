@@ -16,8 +16,7 @@ This tool is meant for educational purposes only and should not be used for ille
 	<p>1.Cross-platform support for both Windows and Linux<br>
 2.Simple command-line interface for easy use<br>
 3.Encrypted communication between the backdoor and the attacker's machine<br>
-4.Password protection for added security<br>
-5.Backdoor can be run as a service to maintain persistence on the compromised machine</p>
+4.Backdoor can be run as a service to maintain persistence on the compromised machine</p>
 	<h2>Installation</h2>
 	<ol>
 		<p>1.Clone this repository:</p>
